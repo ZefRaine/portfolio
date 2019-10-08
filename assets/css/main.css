@@ -1874,7 +1874,7 @@ i {
 }
 
 p {
-	margin: 0 0 2em 0;
+	margin: 0 0 1vh 0;
 }
 
 h1,
@@ -1885,7 +1885,7 @@ h5,
 h6 {
 	font-weight: 600;
 	line-height: 1.5;
-	margin: 0 0 1em 0;
+	margin: 0 0 1vh 0;
 	text-transform: uppercase;
 }
 
