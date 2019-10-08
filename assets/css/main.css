@@ -2248,7 +2248,7 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-	background-color: #f75f5f;
+	background-color: #3e2a52;
 }
 
 input[type="submit"].special:active,
@@ -2256,7 +2256,7 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-	background-color: #f52f2f;
+	background-color: #2a1b3a;
 }
 
 /* Flex */
@@ -3380,7 +3380,7 @@ table.alt tbody tr td {
 .wrapper.style2 input[type="button"].special:hover,
 .wrapper.style2 button.special:hover,
 .wrapper.style2 .button.special:hover {
-	background-color: #f75f5f;
+	background-color: #3e2a52;
 }
 
 .wrapper.style2 input[type="submit"].special:active,
@@ -3388,7 +3388,7 @@ table.alt tbody tr td {
 .wrapper.style2 input[type="button"].special:active,
 .wrapper.style2 button.special:active,
 .wrapper.style2 .button.special:active {
-	background-color: #f52f2f;
+	background-color: #2a1b38;
 }
 
 .wrapper.style2 label {
